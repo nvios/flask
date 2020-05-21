@@ -78,5 +78,4 @@ Links
 .. _Werkzeug: https://www.palletsprojects.com/p/werkzeug/
 .. _Jinja: https://www.palletsprojects.com/p/jinja/
 .. _pip: https://pip.pypa.io/en/stable/quickstart/
-
-## Click <a href="https://nvios.github.io/luca_bontempi/"><strong>here</strong></a> to see my latest projects!
+.. _Website: https://nvios.github.io/luca_bontempi/
