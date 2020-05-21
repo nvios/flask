@@ -78,4 +78,4 @@ Links
 .. _Werkzeug: https://www.palletsprojects.com/p/werkzeug/
 .. _Jinja: https://www.palletsprojects.com/p/jinja/
 .. _pip: https://pip.pypa.io/en/stable/quickstart/
-.. _Website: https://nvios.github.io/luca_bontempi/
+* _Website: https://nvios.github.io/luca_bontempi/
